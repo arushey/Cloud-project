@@ -1,0 +1,47 @@
+commit 92079c0ff6adf35fc1315c20e553c817f97987d2
+Author: Arushi N <arushinauty@gmail.com>
+Date:   Fri Jan 27 13:37:00 2023 +0000
+
+    messages add
+
+commit 3e854d6ba827b64f9e694ce9a0ef60b6ba650382
+Author: Arushi N <arushinauty@gmail.com>
+Date:   Fri Jan 27 03:52:32 2023 +0000
+
+    graphs EDAs
+
+commit 44c32c9a83931ec10d47bebb0a89c4834c4cc71b
+Author: Arushi N <arushinauty@gmail.com>
+Date:   Thu Jan 26 03:01:05 2023 +0000
+
+    EDA analysis
+
+commit d5b17855b71c78012fbae0c667f8ad08e5ca0a17
+Author: Arushi N <arushinauty@gmail.com>
+Date:   Thu Jan 26 00:06:25 2023 +0000
+
+    python file added modified
+
+commit 0702cdec6e1c85d1405fa395c747f4f4f652dae6
+Author: Arushi N <arushinauty@gmail.com>
+Date:   Wed Jan 25 23:33:41 2023 +0000
+
+    delete redudant
+
+commit af4bb4124be2ad5804d7d77c16f48c0b0f50a231
+Author: Arushi N <arushinauty@gmail.com>
+Date:   Wed Jan 25 23:32:35 2023 +0000
+
+    ignore
+
+commit df16c2db686f1ecf2c3f6184e78b9a2831fedb91
+Author: Arushi N <arushinauty@gmail.com>
+Date:   Wed Jan 25 22:43:49 2023 +0000
+
+    added cloud_terapixel
+
+commit b51f69f475d6143ebc0176d52f6ba23ce59ca413
+Author: Arushi N <arushinauty@gmail.com>
+Date:   Wed Jan 25 22:27:12 2023 +0000
+
+    files added
